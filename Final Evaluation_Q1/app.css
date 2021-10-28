@@ -1,0 +1,73 @@
+body {
+    background-color: rgb(245, 245, 245);
+    font-size: 13px;
+}
+
+#navbar-main {
+    background-color: rgb(236, 234, 234);
+}
+
+.navbar-brand {
+    color: blue;
+    font-size: 1.5em;
+    font-weight: 600;
+}
+
+.nav-item {
+    color: rgb(12, 12, 12);
+    font-size: 1.2em;
+}
+
+.nav-link {
+    color: rgb(12, 12, 12);
+    font-size: 1.2em;
+}
+
+.nav-header {
+    display: inline-block;
+    color: rgb(122, 122, 122);
+    font-size: 1em;
+}
+
+.nav-link i {
+    color: rgb(122, 122, 122);
+}
+
+#dash span,
+#dash i {
+    color: blue;
+}
+
+#cal i {
+    color: rgb(38, 238, 228);
+}
+
+#user i {
+    color: rgb(112, 190, 33);
+}
+
+#msg i {
+    color: rgb(230, 226, 48);
+}
+
+#mail i {
+    color: rgb(250, 7, 209);
+}
+
+.heading {
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+.first-box {
+    color: white;
+}
+
+.progress {
+    height: 5px;
+}
+
+img #sale {
+    width: 50%;
+    height: 50%;
+}
